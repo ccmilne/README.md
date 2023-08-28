@@ -1,7 +1,7 @@
 - 🧑‍💻 Hi, I'm Cameron Milne (@ccmilne)
 - 🧮 I'm interested in Data Science
 - 🎓 Graduated with a M.S. in Information from the University of Michigan
-- 🛠 Currently building large NLP applications
+- 🛠 Currently interested in NLP applications
 
 ### Development Tools
 <p align='center'>
